@@ -25,20 +25,23 @@
 
 
 // $num = 50;
+// if ($ num <=0) {
+//     echo "il numero non è valido \n "
+// } else {
 
-// while($num > 1){
-//     if($num % 2 == 0){
-//         $num = $num / 2 ;
-//         echo "$num \n";
+// // while($num > 1){
+// //     if($num % 2 == 0){
+// //         $num = $num / 2 ;
+// //         echo "$num \n";
        
-//     } else{
-//         $num =($num*3)+1;
-//         echo "$num \n";
-//     }
+// //     } else{
+// //         $num =($num*3)+1;
+// //         echo "$num \n";
+// //     }
 
-// }
+// // }
     
-
+// }
 
 // Traccia 4:
 
